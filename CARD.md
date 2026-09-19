@@ -18,7 +18,7 @@ than eight times its size on disk, scored 9.4%, and the two intervals overlap.
 | Entrant | What it is | Size on disk | Score | CI | Good of n | Time for all 196 | Runner CPU |
 |---|---|---|---|---|---|---|---|
 | assistant | Home Assistant's built in matcher, no model | none | 65.3% | 6.7 | 128 of 196 | 3 m 29 s | AMD EPYC 7763 |
-| retrieval-baseline | about 60 lines of word matching, no model | none | 36.7% | 6.7 | 72 of 196 | 1 m 58 s | Intel Xeon Platinum 8573C |
+| hometiny-retrieval-baseline | about 60 lines of word matching, no model | none | 36.7% | 6.7 | 72 of 196 | 1 m 58 s | Intel Xeon Platinum 8573C |
 | functiongemma-270m | FunctionGemma 270M through Ollama | 300.8 MB | 9.4% | 4.1 | 18 of 192 | 73 m 55 s | AMD EPYC 9V45 |
 | needle3 | Cactus Needle 3, 2 bit archive | 35.3 MB | 5.6% | 3.2 | 11 of 196 | 11 m 9 s | AMD EPYC 7763 |
 
@@ -77,7 +77,7 @@ the result as a new request and undid its own action. Every call it makes in its
   reached"). The harness writes no output for such a case, so its n is 192. Counted as wrong, the score
   would be 18 of 196, 9.2%.
 - Out of range cases are counted separately and never scored as zero. Count per entrant: assistant 0,
-  retrieval-baseline 0, needle3 0, functiongemma-270m 0.
+  hometiny-retrieval-baseline 0, needle3 0, functiongemma-270m 0.
 - Rows on the live leaderboard were run at different Home Assistant versions than ours, so they are not
   like for like. The nearest prior for a very small model is llama3.2-1b at 4.1 percent, 2 of 49, in the
   repository's archive on a 2024 version of assist-mini.

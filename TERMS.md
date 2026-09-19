@@ -13,7 +13,7 @@ benchmarks, evaluation results or comparisons.
 | FunctionGemma 270M | Ollama library `functiongemma:270m`, https://ollama.com/library/functiongemma (anonymous registry manifest answered 200: no account used) | Gemma Terms of Use, last modified 2026-04-01, https://ai.google.dev/gemma/terms | silent; "publication" appears once, inside the definition of distributing the model | fetched whole, keyword scan |
 | LFM2-350M | Hugging Face `LiquidAI/LFM2-350M-GGUF`, commit 8fdc9d526b7ed346b19257551b05816c7912ecc2, file `LFM2-350M-Q4_K_M.gguf` (not gated), fetched at that commit and created in Ollama with `ollama create`. Ollama's own library has no 350M tag. It did not run (the card's Limits), so no LFM2 score is published. | LFM Open License v1.0, https://huggingface.co/LiquidAI/LFM2-350M-GGUF/blob/main/LICENSE | silent | fetched whole; the GGUF repo's LICENSE is byte-identical to the base model repo's (10,596 bytes, same sha256) |
 | assistant | built into Home Assistant (hassil), `models/assistant.yaml` in the leaderboard repo | Apache-2.0 (Home Assistant) | n/a | n/a |
-| retrieval-baseline | our own code, source in the pull request | same licence as the leaderboard repo's code | n/a | n/a |
+| hometiny-retrieval-baseline | our own code, source in the pull request | same licence as the leaderboard repo's code | n/a | n/a |
 
 ## Conditions this build and the card obey
 1. **No implied endorsement** (Gemma terms 4.2; LFM licence section 7). Models are named in plain text, no vendor logo,

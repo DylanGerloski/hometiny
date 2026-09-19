@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # HomeTiny: one entrant through the Home LLM Leaderboard's OWN collect and eval, on a CPU-only runner.
 # Usage: ci_run.sh <entrant> <dataset> [pytest -k filter]
-#   entrant: needle3 | functiongemma-270m | lfm2-350m | assistant | retrieval-baseline
+#   entrant: needle3 | functiongemma-270m | lfm2-350m | assistant | hometiny-retrieval-baseline
 #   dataset: assist-mini (run of record) | assist (adapter debugging only, with a -k filter)
 # Nothing here pushes, forks, opens a pull request or posts: the only network use is cloning two public
 # repositories at pinned commits, installing packages, and downloading open weights.

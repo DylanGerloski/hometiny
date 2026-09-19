@@ -15,7 +15,7 @@ The result card is [CARD.md](CARD.md). Every number on it is traced to a run log
 | functiongemma-270m | Google FunctionGemma 270M, from Ollama's library |
 | lfm2-350m | Liquid AI LFM2-350M, Q4_K_M GGUF, served by Ollama. Did not run: see the card's Limits |
 | assistant | Home Assistant's own built in matcher, no model at all |
-| retrieval-baseline | about 60 lines of word matching over the same tools, no model at all |
+| hometiny-retrieval-baseline | about 60 lines of word matching over the same tools, no model at all |
 
 ## How to rerun it
 
@@ -27,7 +27,7 @@ cd hometiny
 bash hometiny-run/ci_run.sh <entrant> assist-mini
 ```
 
-`<entrant>` is one of `assistant`, `retrieval-baseline`, `needle3`, `functiongemma-270m`. (`lfm2-350m` stops
+`<entrant>` is one of `assistant`, `hometiny-retrieval-baseline`, `needle3`, `functiongemma-270m`. (`lfm2-350m` stops
 at the script's setup check, as the card explains.) The
 script clones the leaderboard repository and Home Assistant's synthetic home at their pinned commits into
 `/tmp/hometiny`, installs the leaderboard's own requirements with uv (Python 3.14, which uv fetches if it is

@@ -13,7 +13,7 @@ entrant. We compute no score of our own. A run of record is declared before it i
 | Dataset | `datasets/assist-mini/` at that commit |
 | Home Assistant | 2026.9.2 (what the pinned requirements install; it names the report folder) |
 | Python | 3.14.7 |
-| Machine | GitHub hosted ubuntu runner, 2 cores, about 7.8 GB RAM, no GPU, a fresh VM per run. Not a Raspberry Pi. The CPU model is whatever GitHub assigned and differs by run (each run's `logs/pins.txt`): assistant and needle3 AMD EPYC 7763, retrieval-baseline Intel Xeon Platinum 8573C, functiongemma-270m AMD EPYC 9V45. |
+| Machine | GitHub hosted ubuntu runner, 2 cores, about 7.8 GB RAM, no GPU, a fresh VM per run. Not a Raspberry Pi. The CPU model is whatever GitHub assigned and differs by run (each run's `logs/pins.txt`): assistant and needle3 AMD EPYC 7763, hometiny-retrieval-baseline Intel Xeon Platinum 8573C, functiongemma-270m AMD EPYC 9V45. |
 
 ## On n
 
@@ -38,7 +38,7 @@ thrown away. Nothing was ever run on assist-mini before its run of record.
 | Entrant | Score | CI | Good | n | Run | Minutes |
 |---|---|---|---|---|---|---|
 | assistant | 65.3% | 6.7 | 128 | 196 | 35423224900 | 5 |
-| retrieval-baseline | 36.7% | 6.7 | 72 | 196 | 35423451525 | 4 |
+| hometiny-retrieval-baseline | 36.7% | 6.7 | 72 | 196 | 35423451525 | 4 |
 | needle3 | 5.6% | 3.2 | 11 | 196 | 35423652199 | 13 |
 | functiongemma-270m | 9.4% | 4.1 | 18 | 192 | 35423727088 | 77 |
 
@@ -47,7 +47,7 @@ The runs were dispatched from our private runner repository. The commit GitHub r
 | Run | Entrant | Commit |
 |---|---|---|
 | 35423224900 | assistant | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
-| 35423451525 | retrieval-baseline | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
+| 35423451525 | hometiny-retrieval-baseline | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
 | 35423652199 | needle3 | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
 | 35423727088 | functiongemma-270m | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
 | 35424249021 | lfm2-350m, failed at setup, not a run of record | `1ae9cd6574f90a1c1d352010f9ee431e3dcdc990` |
@@ -60,7 +60,10 @@ two Ollama entrants before any case, and a time limit on the collect step. The f
 custom components are byte for byte the files the scored runs checked out (sha256, first 16 hex digits):
 needle3.yaml `2e76406896ccd828`, functiongemma-270m.yaml `8ba9c20e1752a20f`, lfm2-350m.yaml `5f29b9b91dfe790f`,
 retrieval-baseline.yaml `5a06e7d07184f8da`, and the Needle agent `conversation.py` `a20b81e91fbb0430`. A speed
-change to the Needle agent was made after the Needle run and reverted; no run used it.
+change to the Needle agent was made after the Needle run and reverted; no run used it. After the runs, the
+retrieval baseline was renamed hometiny-retrieval-baseline, and two files here changed for that alone: its model
+file, now `hometiny-retrieval-baseline.yaml` with only the model_id line changed, and the entrant list in a comment
+at the top of `ci_run.sh`.
 
 ### assistant
 
@@ -76,7 +79,7 @@ like: they were run at different Home Assistant versions, and the built in match
 between them. The comparison this card rests on is between our four entrants, which share a commit, a Home
 Assistant version and a kind of runner (2 cores, no GPU).
 
-### retrieval-baseline
+### hometiny-retrieval-baseline
 
 No model. About 60 lines: it picks the Assist API tool whose name and description share the most words with the
 request (stopwords dropped, light suffix stripping, each shared word weighted by how few tools carry it), then
@@ -84,6 +87,8 @@ fills that tool's arguments from the exposed entity names, the tool's own enums 
 request. It never reads a test's expected answer; its source is `hometiny-run/custom_components/hometiny_retrieval/`.
 Declared 2026-09-19T05:15:04Z, run 35423451525, collect exit 0 in 1 m 58 s, eval exit 1 (normal).
 Report folder `reports/assist-mini/2026.9.2/retrieval-baseline`. Out of range: none.
+It ran under the name retrieval-baseline, so its run folder, its recorded command line and the report folder
+inside its run keep that name. The leaderboard lists it as hometiny-retrieval-baseline.
 
 ### needle3
 
@@ -181,7 +186,7 @@ A per request figure is NOT printed on the card, because the harness's traces do
 for every entrant: for `assistant` the trace ends at the tool call (36 of its 196 traces carry only the request,
 no second timestamp), while for the agent entrants it ends at the tool result. As a count of ours, from the
 first to the last timestamp in each trace: needle3 median 0.853 s (p90 1.454 s, 196 traces),
-retrieval-baseline median 0.042 s (196 traces). These two measure the same span and may be compared with each
+hometiny-retrieval-baseline median 0.042 s (196 traces). These two measure the same span and may be compared with each
 other only.
 
 Size on disk: needle3 35,335,380 bytes (above). functiongemma-270m: the size Ollama reports for the pulled
@@ -194,7 +199,7 @@ model in its run's `logs/ollama_tags.json`. The two entrants with no model: none
 | 35419550586 | assistant (debug slice) | 0 | job never started, no Actions budget |
 | 35420100110 | assistant (debug slice) | 1 | smoke test, cancelled after 36 s once it started |
 | 35423224900 | assistant | 5 | run of record |
-| 35423451525 | retrieval-baseline | 4 | run of record |
+| 35423451525 | hometiny-retrieval-baseline | 4 | run of record |
 | 35423652199 | needle3 | 13 | run of record, 12 m 8 s |
 | 35423727088 | functiongemma-270m | 77 | run of record, 76 m 24 s |
 | 35424249021 | lfm2-350m | 2 | failed at setup (model download), 1 m 19 s, no case run |
