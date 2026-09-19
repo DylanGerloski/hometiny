@@ -1,0 +1,9 @@
+2026-09-19T05:32:01Z start entrant=functiongemma-270m dataset=assist-mini k=none
+2026-09-19T05:32:11Z install harness
+2026-09-19T05:32:35Z install ollama
+2026-09-19T05:33:51Z pull functiongemma:270m
+2026-09-19T05:34:02Z collect begin
+2026-09-19T06:47:57Z collect end exit=1
+2026-09-19T06:47:57Z eval begin
+2026-09-19T06:48:08Z eval end exit=1
+2026-09-19T06:48:08Z done

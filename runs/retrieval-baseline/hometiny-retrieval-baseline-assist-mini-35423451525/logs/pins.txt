@@ -1,0 +1,7 @@
+leaderboard_commit: 45e9ac2e998f3308007322aada2eae92afd198c2
+synthetic_home_commit: 9d0a92c364e76dfbf84758c20d99fe8c827ca3fb
+homeassistant: 2026.9.2
+python: Python 3.14.7
+runner_cpu: 2 x INTEL(R) XEON(R) PLATINUM 8573C
+runner_mem_kb: 8127868
+gpu: none

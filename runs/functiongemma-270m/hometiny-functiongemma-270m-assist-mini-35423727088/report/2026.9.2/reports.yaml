@@ -1,0 +1,7 @@
+---
+- model_id: functiongemma-270m
+  good_percent: 9.4%
+  confidence_interval: 4.1%
+  good: 18
+  total: 192
+

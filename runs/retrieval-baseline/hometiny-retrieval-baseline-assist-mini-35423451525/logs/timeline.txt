@@ -1,0 +1,7 @@
+2026-09-19T05:15:16Z start entrant=retrieval-baseline dataset=assist-mini k=none
+2026-09-19T05:15:25Z install harness
+2026-09-19T05:15:50Z collect begin
+2026-09-19T05:17:48Z collect end exit=0
+2026-09-19T05:17:48Z eval begin
+2026-09-19T05:17:55Z eval end exit=1
+2026-09-19T05:17:55Z done

@@ -1,0 +1,5 @@
+NEEDLE_TELEMETRY=0
+DO_NOT_TRACK=1
+entrant=needle3
+outbound connects during collect (non-loopback AF_INET/AF_INET6):
+none

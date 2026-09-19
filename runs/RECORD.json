@@ -1,0 +1,38 @@
+{
+ "assistant": {
+  "dataset": "assist-mini",
+  "declared_at": "2026-09-19T05:09:59Z",
+  "run_id": "35423224900"
+ },
+ "retrieval-baseline": {
+  "dataset": "assist-mini",
+  "declared_at": "2026-09-19T05:15:05Z",
+  "run_id": "35423451525"
+ },
+ "needle3": {
+  "dataset": "assist-mini",
+  "declared_at": "2026-09-19T05:19:38Z",
+  "run_id": "35423652199"
+ },
+ "functiongemma-270m": {
+  "dataset": "assist-mini",
+  "declared_at": "2026-09-19T05:21:11Z",
+  "run_id": "35423727088"
+ },
+ "lfm2-350m": {
+  "dataset": "assist-mini",
+  "not_run_at": "2026-09-19T08:05:08Z",
+  "failed_setups": [
+   {
+    "dataset": "assist-mini",
+    "declared_at": "2026-09-19T05:33:02Z",
+    "run_id": "35424249021"
+   },
+   {
+    "dataset": "assist-mini",
+    "declared_at": "2026-09-19T07:54:20Z",
+    "run_id": "35430577429"
+   }
+  ]
+ }
+}

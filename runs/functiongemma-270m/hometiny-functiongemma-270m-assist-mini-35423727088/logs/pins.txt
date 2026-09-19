@@ -1,0 +1,9 @@
+leaderboard_commit: 45e9ac2e998f3308007322aada2eae92afd198c2
+synthetic_home_commit: 9d0a92c364e76dfbf84758c20d99fe8c827ca3fb
+homeassistant: 2026.9.2
+python: Python 3.14.7
+runner_cpu: 2 x AMD EPYC 9V45 96-Core Processor
+runner_mem_kb: 8128880
+gpu: none
+ollama: {"version":"0.34.2"}
+ollama_served_from: http://127.0.0.1:11434

@@ -1,0 +1,13 @@
+[?2026h[?25l[1Ggathering model components ⠙ [K[?25h[?2026l[?2026h[?25l[1Ggathering model components [K
+copying file sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d 0% ⠋ [K[?25h[?2026l[?2026h[?25l[A[1Ggathering model components [K
+copying file sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d 39% ⠙ [K[?25h[?2026l[?2026h[?25l[A[1Ggathering model components [K
+copying file sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d 57% ⠹ [K[?25h[?2026l[?2026h[?25l[A[1Ggathering model components [K
+copying file sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d 100% [K
+parsing GGUF ⠋ [K[?25h[?2026l[?2026h[?25l[A[A[1Ggathering model components [K
+copying file sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d 100% [K
+parsing GGUF [K
+using existing layer sha256:a4d000c7064bd3b2e42c6845836286a899a4e79cf1791da1a6797b58d575957d [K
+using autodetected template chatml [K
+creating new layer sha256:f02dd72bb2423204352eabc5637b44d79d17f109fdb510a7c51455892aa2d216 [K
+writing manifest [K
+success [K[?25h[?2026l

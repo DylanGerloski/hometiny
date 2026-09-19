@@ -1,0 +1,6 @@
+2321  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2324, si_uid=1001, si_status=0, si_utime=0, si_stime=0} ---
+2321  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2327, si_uid=1001, si_status=0, si_utime=0, si_stime=0} ---
+2329  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2330, si_uid=1001, si_status=1, si_utime=0, si_stime=1 /* 0.01 s */} ---
+2328  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2329, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
+2321  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2328, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
+2321  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2331, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---

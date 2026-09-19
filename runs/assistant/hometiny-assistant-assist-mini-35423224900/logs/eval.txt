@@ -1,0 +1,1178 @@
+.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss [  9%]
+.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-0.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-1.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-2.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-3.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss.sss.sss.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-0.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-1.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-2.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-3.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-0.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-1.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-2.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-3.yaml]%0A%0AAssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+Fsss [ 18%]
+::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-0.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-1.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-2.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-3.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-0.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-1.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-2.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-3.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-0.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-1.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-2.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-3.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-0.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-1.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-2.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-3.yaml]%0A%0AAssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-0.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-1.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss [ 27%]
+::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-2.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-3.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-0.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-1.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-2.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-3.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-0.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-1.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-2.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-3.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-0.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-1.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-2.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-3.yaml]%0A%0AAssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+Fsss.sss.sss.sss.sss [ 36%]
+::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-0.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-1.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-2.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-3.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+Fsss.sss.sss.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-0.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-1.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-2.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-3.yaml]%0A%0AAssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-0.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-1.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-2.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-3.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+Fsss.sss.sss [ 45%]
+.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-0.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-1.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-2.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-3.yaml]%0A%0AAssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+Fsss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss [ 55%]
+.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss [ 64%]
+.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss [ 73%]
+.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-0.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-1.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-2.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-3.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+Fsss.sss.sss [ 82%]
+.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss.sss [ 91%]
+.sss.sss.sss.sss.sss.sss.sss.sss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-0.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-1.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-2.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+Fsss::error file=home_assistant_datasets/tool/assist/eval/test_eval.py,line=16::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-3.yaml]%0A%0AAssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+Fsss.sss.sss.sss.sss         [100%]
+=================================== FAILURES ===================================
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-0.yaml] _
+
+model_output = ModelOutput(uuid='de7cd000-30b4-47f2-9fc8-48fd9a430530', task_id='dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_l...datetime.datetime(2026, 9, 19, 5, 11, 40, 554000, tzinfo=datetime.timezone.utc)}], 'duration_ms': 502.107, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-1.yaml] _
+
+model_output = ModelOutput(uuid='fc07a7cc-b1fb-43c1-ba45-28e3e2bd91d9', task_id='dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_l...datetime.datetime(2026, 9, 19, 5, 11, 41, 512724, tzinfo=datetime.timezone.utc)}], 'duration_ms': 254.801, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-2.yaml] _
+
+model_output = ModelOutput(uuid='3aaa74f5-6dd3-47c8-90af-2b8c35a704e5', task_id='dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_l...datetime.datetime(2026, 9, 19, 5, 11, 42, 468584, tzinfo=datetime.timezone.utc)}], 'duration_ms': 257.432, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-3.yaml] _
+
+model_output = ModelOutput(uuid='13a141f0-8029-4792-b397-1242007e20c0', task_id='dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_l...datetime.datetime(2026, 9, 19, 5, 11, 43, 413614, tzinfo=datetime.timezone.utc)}], 'duration_ms': 251.992, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-0.yaml] _
+
+model_output = ModelOutput(uuid='4732ff67-13fc-472b-92b0-3e6b752b158b', task_id='dom1_pl_todo_todo-add_history_homework_to_my_tasks-0... datetime.datetime(2026, 9, 19, 5, 11, 36, 60470, tzinfo=datetime.timezone.utc)}], 'duration_ms': 473.862, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-1.yaml] _
+
+model_output = ModelOutput(uuid='a2b8aed9-eb82-4a94-903b-6d94b3793778', task_id='dom1_pl_todo_todo-add_history_homework_to_my_tasks-1...datetime.datetime(2026, 9, 19, 5, 11, 37, 227042, tzinfo=datetime.timezone.utc)}], 'duration_ms': 255.497, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-2.yaml] _
+
+model_output = ModelOutput(uuid='cf1509f5-e81a-4b25-ae2a-a16f0aa01c3b', task_id='dom1_pl_todo_todo-add_history_homework_to_my_tasks-2...datetime.datetime(2026, 9, 19, 5, 11, 38, 164828, tzinfo=datetime.timezone.utc)}], 'duration_ms': 248.279, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-3.yaml] _
+
+model_output = ModelOutput(uuid='0f14b20c-0d2c-4a27-88cb-6954229cd729', task_id='dom1_pl_todo_todo-add_history_homework_to_my_tasks-3... datetime.datetime(2026, 9, 19, 5, 11, 39, 95920, tzinfo=datetime.timezone.utc)}], 'duration_ms': 247.296, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-0.yaml] _
+
+model_output = ModelOutput(uuid='0474ee0c-0115-4631-9186-a183ff860cad', task_id='dom1_pl_todo_todo-put_history_homework_on_personal_t...atetime.datetime(2026, 9, 19, 5, 11, 27, 681105, tzinfo=datetime.timezone.utc)}], 'duration_ms': 1265.994, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-1.yaml] _
+
+model_output = ModelOutput(uuid='c5429058-9dc3-4ae6-813b-6975d02597e5', task_id='dom1_pl_todo_todo-put_history_homework_on_personal_t...datetime.datetime(2026, 9, 19, 5, 11, 29, 637133, tzinfo=datetime.timezone.utc)}], 'duration_ms': 247.505, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-2.yaml] _
+
+model_output = ModelOutput(uuid='fb3f3ad4-b23f-4677-ab3f-e49d20245d4d', task_id='dom1_pl_todo_todo-put_history_homework_on_personal_t...datetime.datetime(2026, 9, 19, 5, 11, 30, 578648, tzinfo=datetime.timezone.utc)}], 'duration_ms': 247.532, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-3.yaml] _
+
+model_output = ModelOutput(uuid='fff32fac-8bea-4646-a9fe-a805d6a146ff', task_id='dom1_pl_todo_todo-put_history_homework_on_personal_t...datetime.datetime(2026, 9, 19, 5, 11, 31, 507819, tzinfo=datetime.timezone.utc)}], 'duration_ms': 434.903, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-0.yaml] _
+
+model_output = ModelOutput(uuid='6f05ec22-b415-4b56-86f3-be861b4a1b4f', task_id='home1_us_cover_garage_cover_garage-close_the_garage_...datetime.datetime(2026, 9, 19, 5, 11, 44, 289039, tzinfo=datetime.timezone.utc)}], 'duration_ms': 174.389, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-1.yaml] _
+
+model_output = ModelOutput(uuid='81dca674-55be-4593-b507-04db9f38909b', task_id='home1_us_cover_garage_cover_garage-close_the_garage_...datetime.datetime(2026, 9, 19, 5, 11, 45, 428478, tzinfo=datetime.timezone.utc)}], 'duration_ms': 440.081, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-2.yaml] _
+
+model_output = ModelOutput(uuid='163e913f-655d-421a-84d7-067e03af0c59', task_id='home1_us_cover_garage_cover_garage-close_the_garage_...datetime.datetime(2026, 9, 19, 5, 11, 46, 298119, tzinfo=datetime.timezone.utc)}], 'duration_ms': 172.092, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-3.yaml] _
+
+model_output = ModelOutput(uuid='898b0e24-e0c4-442d-a8cb-1761c06ee88f', task_id='home1_us_cover_garage_cover_garage-close_the_garage_...datetime.datetime(2026, 9, 19, 5, 11, 47, 172056, tzinfo=datetime.timezone.utc)}], 'duration_ms': 173.012, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-0.yaml] _
+
+model_output = ModelOutput(uuid='fe61281a-a8b9-4b09-b8cb-0c75732050bd', task_id='home1_us_cover_garage_cover_garage-open_the_garage_d...datetime.datetime(2026, 9, 19, 5, 11, 55, 555763, tzinfo=datetime.timezone.utc)}], 'duration_ms': 176.665, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-1.yaml] _
+
+model_output = ModelOutput(uuid='bd6ac46e-fdc8-40ba-8278-675797549f06', task_id='home1_us_cover_garage_cover_garage-open_the_garage_d...datetime.datetime(2026, 9, 19, 5, 11, 56, 429525, tzinfo=datetime.timezone.utc)}], 'duration_ms': 177.797, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-2.yaml] _
+
+model_output = ModelOutput(uuid='b3768459-8d8b-4864-88cf-e90f4d355a58', task_id='home1_us_cover_garage_cover_garage-open_the_garage_d...datetime.datetime(2026, 9, 19, 5, 11, 57, 305062, tzinfo=datetime.timezone.utc)}], 'duration_ms': 175.077, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-3.yaml] _
+
+model_output = ModelOutput(uuid='057965ea-5616-4049-9fa1-0fe54c27aee5', task_id='home1_us_cover_garage_cover_garage-open_the_garage_d...datetime.datetime(2026, 9, 19, 5, 11, 58, 174668, tzinfo=datetime.timezone.utc)}], 'duration_ms': 170.275, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-0.yaml] _
+
+model_output = ModelOutput(uuid='c0d963e6-bab0-4b70-8fb3-4b5058d063c1', task_id='home1_us_cover_garage_cover_garage-please_close_the_... datetime.datetime(2026, 9, 19, 5, 11, 48, 49091, tzinfo=datetime.timezone.utc)}], 'duration_ms': 176.835, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-1.yaml] _
+
+model_output = ModelOutput(uuid='6e233f93-3d7a-4694-adf0-bd6b880b752e', task_id='home1_us_cover_garage_cover_garage-please_close_the_...datetime.datetime(2026, 9, 19, 5, 11, 48, 911360, tzinfo=datetime.timezone.utc)}], 'duration_ms': 170.342, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-2.yaml] _
+
+model_output = ModelOutput(uuid='a9ad12f7-814e-41df-b999-64188bddbcf7', task_id='home1_us_cover_garage_cover_garage-please_close_the_...': datetime.datetime(2026, 9, 19, 5, 11, 50, 28435, tzinfo=datetime.timezone.utc)}], 'duration_ms': 426.7, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-3.yaml] _
+
+model_output = ModelOutput(uuid='4e51b1c8-2ba7-4966-b875-5ebbd7082d98', task_id='home1_us_cover_garage_cover_garage-please_close_the_...datetime.datetime(2026, 9, 19, 5, 11, 50, 897885, tzinfo=datetime.timezone.utc)}], 'duration_ms': 176.365, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-0.yaml] _
+
+model_output = ModelOutput(uuid='8dfcde4f-3eb2-4d92-8643-5ff12e34904c', task_id='home1_us_cover_garage_cover_garage-please_open_the_g...datetime.datetime(2026, 9, 19, 5, 11, 51, 770722, tzinfo=datetime.timezone.utc)}], 'duration_ms': 174.819, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-1.yaml] _
+
+model_output = ModelOutput(uuid='1f0f1f70-a210-4d7c-ad63-09b19b3eaff7', task_id='home1_us_cover_garage_cover_garage-please_open_the_g... datetime.datetime(2026, 9, 19, 5, 11, 52, 644556, tzinfo=datetime.timezone.utc)}], 'duration_ms': 171.38, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-2.yaml] _
+
+model_output = ModelOutput(uuid='19e97fc1-4388-44f5-b964-86a3c9811346', task_id='home1_us_cover_garage_cover_garage-please_open_the_g...datetime.datetime(2026, 9, 19, 5, 11, 53, 512976, tzinfo=datetime.timezone.utc)}], 'duration_ms': 173.078, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-3.yaml] _
+
+model_output = ModelOutput(uuid='4903e028-b415-41bb-94bd-c71d5e34c9fc', task_id='home1_us_cover_garage_cover_garage-please_open_the_g...datetime.datetime(2026, 9, 19, 5, 11, 54, 682549, tzinfo=datetime.timezone.utc)}], 'duration_ms': 471.734, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-0.yaml] _
+
+model_output = ModelOutput(uuid='f2e7ad73-5c7f-475e-bef1-af25c37934df', task_id='home1_us_lock_smart_lock-lock_smart_lock-0', model_i...datetime.datetime(2026, 9, 19, 5, 11, 59, 356766, tzinfo=datetime.timezone.utc)}], 'duration_ms': 461.924, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-1.yaml] _
+
+model_output = ModelOutput(uuid='eac6f015-35b6-4816-a6bd-e1dec7a10079', task_id='home1_us_lock_smart_lock-lock_smart_lock-1', model_i... datetime.datetime(2026, 9, 19, 5, 12, 0, 264159, tzinfo=datetime.timezone.utc)}], 'duration_ms': 174.692, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-2.yaml] _
+
+model_output = ModelOutput(uuid='8b006508-564f-4307-be04-906f8e73bb16', task_id='home1_us_lock_smart_lock-lock_smart_lock-2', model_i... datetime.datetime(2026, 9, 19, 5, 12, 1, 158986, tzinfo=datetime.timezone.utc)}], 'duration_ms': 174.538, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-3.yaml] _
+
+model_output = ModelOutput(uuid='ee0e3957-0942-4fe8-b9df-045a47ba20b2', task_id='home1_us_lock_smart_lock-lock_smart_lock-3', model_i...: datetime.datetime(2026, 9, 19, 5, 12, 2, 69106, tzinfo=datetime.timezone.utc)}], 'duration_ms': 175.131, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-0.yaml] _
+
+model_output = ModelOutput(uuid='20f93a7f-37fd-4003-a0d0-386aa3fd2a47', task_id='home1_us_lock_smart_lock-lock_the_entry_lock-0', mod... datetime.datetime(2026, 9, 19, 5, 12, 2, 809781, tzinfo=datetime.timezone.utc)}], 'duration_ms': 249.024, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-1.yaml] _
+
+model_output = ModelOutput(uuid='c09ce270-bade-4d4e-9291-7807d04660bf', task_id='home1_us_lock_smart_lock-lock_the_entry_lock-1', mod... datetime.datetime(2026, 9, 19, 5, 12, 3, 777024, tzinfo=datetime.timezone.utc)}], 'duration_ms': 561.748, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-2.yaml] _
+
+model_output = ModelOutput(uuid='a0a68c32-a6ad-4f00-a3b0-2434dc5cf93f', task_id='home1_us_lock_smart_lock-lock_the_entry_lock-2', mod...: datetime.datetime(2026, 9, 19, 5, 12, 5, 61923, tzinfo=datetime.timezone.utc)}], 'duration_ms': 248.681, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-3.yaml] _
+
+model_output = ModelOutput(uuid='c20ed793-7c2d-45fe-8e42-d2e24ace5b11', task_id='home1_us_lock_smart_lock-lock_the_entry_lock-3', mod...': datetime.datetime(2026, 9, 19, 5, 12, 6, 33897, tzinfo=datetime.timezone.utc)}], 'duration_ms': 250.69, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-0.yaml] _
+
+model_output = ModelOutput(uuid='b322c719-5b62-4a0b-a7d8-10b451e2f5c8', task_id='home1_us_lock_smart_lock-unlock_smart_lock-0', model... datetime.datetime(2026, 9, 19, 5, 12, 7, 177745, tzinfo=datetime.timezone.utc)}], 'duration_ms': 171.931, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-1.yaml] _
+
+model_output = ModelOutput(uuid='abde9084-116e-464d-bc6d-0ad18cd6170f', task_id='home1_us_lock_smart_lock-unlock_smart_lock-1', model... datetime.datetime(2026, 9, 19, 5, 12, 8, 304602, tzinfo=datetime.timezone.utc)}], 'duration_ms': 411.217, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-2.yaml] _
+
+model_output = ModelOutput(uuid='f0d47abb-da13-48a4-989a-58d1f215b620', task_id='home1_us_lock_smart_lock-unlock_smart_lock-2', model... datetime.datetime(2026, 9, 19, 5, 12, 9, 218895, tzinfo=datetime.timezone.utc)}], 'duration_ms': 180.402, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-3.yaml] _
+
+model_output = ModelOutput(uuid='1157f588-fc4b-4dac-ad1e-d3a3bda09cfb', task_id='home1_us_lock_smart_lock-unlock_smart_lock-3', model...datetime.datetime(2026, 9, 19, 5, 12, 10, 132128, tzinfo=datetime.timezone.utc)}], 'duration_ms': 175.189, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-0.yaml] _
+
+model_output = ModelOutput(uuid='dea163dd-4c0b-4914-b856-1065b885043b', task_id='home1_us_lock_smart_lock-unlock_the_entry_lock-0', m... datetime.datetime(2026, 9, 19, 5, 12, 10, 869096, tzinfo=datetime.timezone.utc)}], 'duration_ms': 253.35, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-1.yaml] _
+
+model_output = ModelOutput(uuid='6b4ca689-9708-4691-9ed1-c89bf7aaa1d6', task_id='home1_us_lock_smart_lock-unlock_the_entry_lock-1', m...datetime.datetime(2026, 9, 19, 5, 12, 11, 848071, tzinfo=datetime.timezone.utc)}], 'duration_ms': 247.427, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-2.yaml] _
+
+model_output = ModelOutput(uuid='66d6d1ac-aa13-4854-8d3f-6e867912fa44', task_id='home1_us_lock_smart_lock-unlock_the_entry_lock-2', m...datetime.datetime(2026, 9, 19, 5, 12, 12, 816683, tzinfo=datetime.timezone.utc)}], 'duration_ms': 522.714, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-3.yaml] _
+
+model_output = ModelOutput(uuid='ae63a756-72b7-4f07-884a-4bfb41b2efca', task_id='home1_us_lock_smart_lock-unlock_the_entry_lock-3', m... datetime.datetime(2026, 9, 19, 5, 12, 14, 56488, tzinfo=datetime.timezone.utc)}], 'duration_ms': 249.219, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-0.yaml] _
+
+model_output = ModelOutput(uuid='d74ca0b5-6248-4e81-9c57-121b923ae496', task_id='home1_us_vacuum_vacuum-return_vacuum_in_the_living_r...datetime.datetime(2026, 9, 19, 5, 12, 26, 579835, tzinfo=datetime.timezone.utc)}], 'duration_ms': 560.249, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-1.yaml] _
+
+model_output = ModelOutput(uuid='b85cac43-b2fd-4333-9fde-6b2e1497fde0', task_id='home1_us_vacuum_vacuum-return_vacuum_in_the_living_r...datetime.datetime(2026, 9, 19, 5, 12, 27, 831564, tzinfo=datetime.timezone.utc)}], 'duration_ms': 251.025, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-2.yaml] _
+
+model_output = ModelOutput(uuid='b41cffff-f523-4bc8-aafc-12edf22171cf', task_id='home1_us_vacuum_vacuum-return_vacuum_in_the_living_r...datetime.datetime(2026, 9, 19, 5, 12, 28, 771312, tzinfo=datetime.timezone.utc)}], 'duration_ms': 252.378, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-3.yaml] _
+
+model_output = ModelOutput(uuid='b170e22e-e25a-406a-9b92-581fde56eaff', task_id='home1_us_vacuum_vacuum-return_vacuum_in_the_living_r... datetime.datetime(2026, 9, 19, 5, 12, 29, 709970, tzinfo=datetime.timezone.utc)}], 'duration_ms': 248.53, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-0.yaml] _
+
+model_output = ModelOutput(uuid='2d47ca34-e21b-4061-a0e0-ea6d9d69af16', task_id='home1_us_vacuum_vacuum-start_vacuum_in_the_living_ro... datetime.datetime(2026, 9, 19, 5, 12, 14, 996764, tzinfo=datetime.timezone.utc)}], 'duration_ms': 250.28, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-1.yaml] _
+
+model_output = ModelOutput(uuid='74611bc2-9e1f-4d19-8019-c88c7330e821', task_id='home1_us_vacuum_vacuum-start_vacuum_in_the_living_ro...datetime.datetime(2026, 9, 19, 5, 12, 15, 931954, tzinfo=datetime.timezone.utc)}], 'duration_ms': 248.432, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-2.yaml] _
+
+model_output = ModelOutput(uuid='73972316-783a-4774-b665-e4cdd55452dd', task_id='home1_us_vacuum_vacuum-start_vacuum_in_the_living_ro...datetime.datetime(2026, 9, 19, 5, 12, 16, 863912, tzinfo=datetime.timezone.utc)}], 'duration_ms': 491.751, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-3.yaml] _
+
+model_output = ModelOutput(uuid='ac6898f7-e343-431e-8df2-00afd1486d23', task_id='home1_us_vacuum_vacuum-start_vacuum_in_the_living_ro...: datetime.datetime(2026, 9, 19, 5, 12, 18, 40436, tzinfo=datetime.timezone.utc)}], 'duration_ms': 252.71, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-0.yaml] _
+
+model_output = ModelOutput(uuid='f1bcd13c-f6ef-474d-93f1-19c768e93a55', task_id='home2_ru_valve_water_valve-close_the_front_yard_valv...datetime.datetime(2026, 9, 19, 5, 12, 38, 675214, tzinfo=datetime.timezone.utc)}], 'duration_ms': 257.462, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-1.yaml] _
+
+model_output = ModelOutput(uuid='58a8c537-80ce-48bf-b438-c76bb6c68ce0', task_id='home2_ru_valve_water_valve-close_the_front_yard_valv...datetime.datetime(2026, 9, 19, 5, 12, 39, 632023, tzinfo=datetime.timezone.utc)}], 'duration_ms': 291.844, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-2.yaml] _
+
+model_output = ModelOutput(uuid='188ab459-171d-49cd-93a3-ad7eb5fad10e', task_id='home2_ru_valve_water_valve-close_the_front_yard_valv... datetime.datetime(2026, 9, 19, 5, 12, 40, 983636, tzinfo=datetime.timezone.utc)}], 'duration_ms': 247.57, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-3.yaml] _
+
+model_output = ModelOutput(uuid='c88ff968-2b41-411c-8d17-870f6a37c2b2', task_id='home2_ru_valve_water_valve-close_the_front_yard_valv...datetime.datetime(2026, 9, 19, 5, 12, 41, 938472, tzinfo=datetime.timezone.utc)}], 'duration_ms': 258.386, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-0.yaml] _
+
+model_output = ModelOutput(uuid='106b8ecc-eedc-47d9-8ace-7c6078a20feb', task_id='home2_ru_valve_water_valve-open_the_front_yard_valve...datetime.datetime(2026, 9, 19, 5, 12, 30, 659979, tzinfo=datetime.timezone.utc)}], 'duration_ms': 512.133, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-1.yaml] _
+
+model_output = ModelOutput(uuid='64fa1e07-08df-4b01-9463-a666c9d8c037', task_id='home2_ru_valve_water_valve-open_the_front_yard_valve...datetime.datetime(2026, 9, 19, 5, 12, 31, 881931, tzinfo=datetime.timezone.utc)}], 'duration_ms': 252.072, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-2.yaml] _
+
+model_output = ModelOutput(uuid='2b54f103-6665-4e9d-a50e-3fa84517958a', task_id='home2_ru_valve_water_valve-open_the_front_yard_valve...datetime.datetime(2026, 9, 19, 5, 12, 32, 842271, tzinfo=datetime.timezone.utc)}], 'duration_ms': 255.109, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-3.yaml] _
+
+model_output = ModelOutput(uuid='6de8a57a-73c4-4f06-a7a9-5907c4f0fa0b', task_id='home2_ru_valve_water_valve-open_the_front_yard_valve... datetime.datetime(2026, 9, 19, 5, 12, 33, 812767, tzinfo=datetime.timezone.utc)}], 'duration_ms': 255.34, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-0.yaml] _
+
+model_output = ModelOutput(uuid='838825cf-9e59-40f5-8deb-6c54f01b0911', task_id='home7_dk_media_player_media_player-mute_the_outdoor_...datetime.datetime(2026, 9, 19, 5, 14, 15, 259367, tzinfo=datetime.timezone.utc)}], 'duration_ms': 183.832, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-1.yaml] _
+
+model_output = ModelOutput(uuid='839feefb-26b9-43f1-80c8-06d464083da8', task_id='home7_dk_media_player_media_player-mute_the_outdoor_...datetime.datetime(2026, 9, 19, 5, 14, 16, 404601, tzinfo=datetime.timezone.utc)}], 'duration_ms': 179.707, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-2.yaml] _
+
+model_output = ModelOutput(uuid='d559cf23-8b74-4f15-aced-afd3bedd3922', task_id='home7_dk_media_player_media_player-mute_the_outdoor_...datetime.datetime(2026, 9, 19, 5, 14, 17, 267026, tzinfo=datetime.timezone.utc)}], 'duration_ms': 181.649, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-3.yaml] _
+
+model_output = ModelOutput(uuid='88818b42-e77a-4139-b193-8efe287e46e9', task_id='home7_dk_media_player_media_player-mute_the_outdoor_...datetime.datetime(2026, 9, 19, 5, 14, 18, 137103, tzinfo=datetime.timezone.utc)}], 'duration_ms': 187.263, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-0.yaml] _
+
+model_output = ModelOutput(uuid='db9b9452-bc23-4b1b-b1a4-128d408c9758', task_id='home7_dk_media_player_media_player-turn_the_volume_d... datetime.datetime(2026, 9, 19, 5, 14, 11, 52156, tzinfo=datetime.timezone.utc)}], 'duration_ms': 536.793, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-1.yaml] _
+
+model_output = ModelOutput(uuid='4990936a-fa80-494c-b68e-b8e0d6475bd0', task_id='home7_dk_media_player_media_player-turn_the_volume_d...datetime.datetime(2026, 9, 19, 5, 14, 12, 259399, tzinfo=datetime.timezone.utc)}], 'duration_ms': 260.065, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-2.yaml] _
+
+model_output = ModelOutput(uuid='ccd895a7-15bc-4a39-8eb0-1ef79aa00d3d', task_id='home7_dk_media_player_media_player-turn_the_volume_d... datetime.datetime(2026, 9, 19, 5, 14, 13, 209880, tzinfo=datetime.timezone.utc)}], 'duration_ms': 255.52, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+_ test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-3.yaml] _
+
+model_output = ModelOutput(uuid='5473140c-4f44-4ae8-9753-32c360f004bc', task_id='home7_dk_media_player_media_player-turn_the_volume_d...datetime.datetime(2026, 9, 19, 5, 14, 14, 148057, tzinfo=datetime.timezone.utc)}], 'duration_ms': 255.717, 'tries': 1})
+
+    @pytest.mark.eval_model_outputs
+    def test_expected_states(model_output: ModelOutput) -> None:
+        """Evaluate the states of the scraped model output."""
+    
+        # The task is expecting a specific state change to happen
+        if model_output.task.get("expect_changes"):
+            unexpected_states = model_output.context["unexpected_states"]
+>           assert not unexpected_states
+E           AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+
+home_assistant_datasets/tool/assist/eval/test_eval.py:16: AssertionError
+- Generated eval report: reports/assist-mini/2026.9.2/reports-token-stats.yaml -
+------- Generated eval report: reports/assist-mini/2026.9.2/reports.yaml -------
+- Generated eval report: reports/assist-mini/2026.9.2/reports-by-model-test-name.yaml -
+- Generated eval report: reports/assist-mini/2026.9.2/reports-by-model-category.yaml -
+- Generated eval report: reports/assist-mini/2026.9.2/reports-by-test-name.yaml -
+- Generated eval report: reports/assist-mini/2026.9.2/reports-by-task-id.yaml --
+- Generated eval report: reports/assist-mini/2026.9.2/reports-by-category.yaml -
+-------- Generated eval report: reports/assist-mini/2026.9.2/report.csv --------
+=========================== short test summary info ============================
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-0.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-1.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-2.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_clean_the_kitchen_to_my_todo_list-3.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-0.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-1.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-2.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-add_history_homework_to_my_tasks-3.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-0.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-1.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-2.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/dom1_pl_todo_todo-put_history_homework_on_personal_tasks_todo_list-3.yaml] - AssertionError: assert not {'todo.personal_tasks': {'expected': {'state': '1'}, 'got': {'state': '0'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-0.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-1.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-2.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-close_the_garage_door-3.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-0.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-1.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-2.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-open_the_garage_door-3.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-0.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-1.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-2.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_close_the_garage_door-3.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'closed'}, 'got': {'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-0.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-1.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-2.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_cover_garage_cover_garage-please_open_the_garage_door-3.yaml] - AssertionError: assert not {'cover.garage_door_opener': {'expected': {'state': 'open'}, 'got': {'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-0.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-1.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-2.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_smart_lock-3.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-0.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-1.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-2.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-lock_the_entry_lock-3.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'locked'}, 'got': {'state': 'unlocked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-0.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-1.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-2.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_smart_lock-3.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-0.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-1.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-2.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_lock_smart_lock-unlock_the_entry_lock-3.yaml] - AssertionError: assert not {'lock.smart_lock': {'expected': {'state': 'unlocked'}, 'got': {'state': 'locked'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-0.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-1.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-2.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-return_vacuum_in_the_living_room_to_base-3.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'returning'}, 'got': {'state': 'cleaning'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-0.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-1.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-2.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home1_us_vacuum_vacuum-start_vacuum_in_the_living_room-3.yaml] - AssertionError: assert not {'vacuum.roborock_downstairs': {'expected': {'state': 'cleaning'}, 'got': {'state': 'off'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-0.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-1.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-2.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-close_the_front_yard_valve-3.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 0, 'state': 'closed'}, 'got': {'current_position': 100, 'state': 'open'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-0.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-1.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-2.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home2_ru_valve_water_valve-open_the_front_yard_valve-3.yaml] - AssertionError: assert not {'valve.irrigation_valve': {'expected': {'current_position': 100, 'state': 'open'}, 'got': {'current_position': 0, 'state': 'closed'}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-0.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-1.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-2.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-mute_the_outdoor_speakers-3.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'is_volume_muted': None, 'volume_level': 0.0}, 'got': {'is_volume_muted': True, 'volume_level': 0.6}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-0.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-1.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-2.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+FAILED home_assistant_datasets/tool/assist/eval/test_eval.py::test_expected_states[assistant/home7_dk_media_player_media_player-turn_the_volume_down_to_50-3.yaml] - AssertionError: assert not {'media_player.outdoor_speakers': {'expected': {'volume_level': 0.5}, 'got': {'volume_level': 0.9}}}
+68 failed, 128 passed, 588 skipped in 5.16s

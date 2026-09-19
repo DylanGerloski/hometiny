@@ -1,0 +1,5 @@
+2026-09-19T07:54:28Z start entrant=lfm2-350m dataset=assist-mini k=none
+2026-09-19T07:54:36Z install harness
+2026-09-19T07:55:05Z install ollama
+2026-09-19T07:56:41Z fetch gguf for hf.co/LiquidAI/LFM2-350M-GGUF:Q4_K_M
+2026-09-19T07:56:46Z SETUP GATE FAILED: no tools capability

@@ -1,0 +1,2 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+{'type': 'call', 'success': True, 'error': None, 'error_code': None, 'reason': None, 'function_calls': [{'name': 'noop', 'arguments': {}}], 'suppressed_calls': [], 'reasoning': "'warm up' means lower the cache -> noop with no arguments", 'confidence': 1.0, 'prefill_tps': 240.6, 'decode_tps': 160.5, 'peak_ram_mb': 143.1, 'validation': {'ungrounded': [], 'negation': False}}

@@ -1,0 +1,4 @@
+2026-09-19T06:48:25Z start entrant=lfm2-350m dataset=assist-mini k=none
+2026-09-19T06:48:35Z install harness
+2026-09-19T06:49:01Z install ollama
+2026-09-19T06:49:35Z pull hf.co/LiquidAI/LFM2-350M-GGUF:Q4_K_M

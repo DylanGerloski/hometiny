@@ -1,0 +1,15 @@
+---
+model_id: lfm2-350m
+domain: ollama
+description: Liquid AI LFM2-350M, Q4_K_M GGUF from LiquidAI/LFM2-350M-GGUF on Hugging Face, served by Ollama. Run on CPU only (no GPU) on a GitHub-hosted ubuntu runner.
+categories:
+  - liquid
+  - local
+urls:
+  - https://huggingface.co/LiquidAI/LFM2-350M-GGUF
+config_entry_data:
+  url: !secret ollama_url
+  model: hf.co/LiquidAI/LFM2-350M-GGUF:Q4_K_M
+config_entry_options:
+  llm_hass_api: assist
+  num_ctx: 8192

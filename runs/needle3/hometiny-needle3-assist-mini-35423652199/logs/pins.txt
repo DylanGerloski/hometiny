@@ -1,0 +1,10 @@
+leaderboard_commit: 45e9ac2e998f3308007322aada2eae92afd198c2
+synthetic_home_commit: 9d0a92c364e76dfbf84758c20d99fe8c827ca3fb
+homeassistant: 2026.9.2
+python: Python 3.14.7
+runner_cpu: 2 x AMD EPYC 7763 64-Core Processor
+runner_mem_kb: 8128880
+gpu: none
+cactus_needle: 3.0.1
+c9d915eca282ed42d1a09b143b592adb4cc6744ffe2d294adf5cfc5548170c38  /home/runner/.cache/cactus-needle/v3/3.0.1/needle3.cact
+c9d915eca282ed42d1a09b143b592adb4cc6744ffe2d294adf5cfc5548170c38  /home/runner/.cache/huggingface/hub/models--Cactus-Compute--needle3/snapshots/b009f8937124b2d0458f4ed040c10c41fd2a0dfc/needle3.cact

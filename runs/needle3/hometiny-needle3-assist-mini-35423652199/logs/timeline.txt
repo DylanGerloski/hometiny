@@ -1,0 +1,8 @@
+2026-09-19T05:19:48Z start entrant=needle3 dataset=assist-mini k=none
+2026-09-19T05:19:56Z install harness
+2026-09-19T05:20:22Z install needle
+2026-09-19T05:20:28Z collect begin
+2026-09-19T05:31:37Z collect end exit=0
+2026-09-19T05:31:37Z eval begin
+2026-09-19T05:31:45Z eval end exit=1
+2026-09-19T05:31:45Z done

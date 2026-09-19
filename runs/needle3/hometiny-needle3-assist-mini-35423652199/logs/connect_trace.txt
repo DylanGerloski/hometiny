@@ -1,0 +1,6 @@
+2383  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2385, si_uid=1001, si_status=0, si_utime=0, si_stime=0} ---
+2383  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2388, si_uid=1001, si_status=0, si_utime=0, si_stime=0} ---
+2390  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2391, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
+2389  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2390, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
+2383  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2389, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
+2383  --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=2392, si_uid=1001, si_status=1, si_utime=0, si_stime=0} ---
